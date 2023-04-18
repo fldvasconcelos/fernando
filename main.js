@@ -6,4 +6,9 @@ http.createServer((req, res) => {
 	res.end('Hello Node')
 }).listen(porta)
  
-console.log('Servidor rodando na porta: '+ porta)
+console.log('Servidor rodando na porta: ' + porta)
+
+
+// https://www.youtube.com/watch?v=7cNP3AE49Bg
+//
+
